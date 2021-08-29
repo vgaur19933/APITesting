@@ -1,0 +1,1 @@
+{"uuid":"ef103822-06aa-4d8c-ad7a-1853c726e5b5","name":"com.test.APIFinal1","children":["e56ce4f6-485f-415f-b839-0f67f9ecd676"],"befores":[{"name":"Specbuilder","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1630131403248,"stop":1630131405890}],"afters":[],"links":[],"start":1630131402583,"stop":1630131410057}
